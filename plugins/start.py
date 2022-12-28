@@ -47,13 +47,13 @@ async def start(client, message):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com')
+        InlineKeyboardButton("🙋🏻 Youtube ", url='https://www.youtube.com')
         ],[
         InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/honey_moviezz')
         ],[
         InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com')
         ],[
-        InlineKeyboardButton("📝Admin-TG", url='https://t.me/nashvara'),
+        InlineKeyboardButton("📝Admin-TG", url='https://t.me/ittus_bot'),
         InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com')
         ]
         ])
@@ -106,13 +106,13 @@ async def cb_handler(client, query: CallbackQuery):
         InlineKeyboardButton('⚡️ About', callback_data='about'),
         InlineKeyboardButton('🤕 Help', callback_data='help')
         ],[
-        InlineKeyboardButton("🙋🏻 How to make this BOT ? ", url='https://www.youtube.com')
+        InlineKeyboardButton("🙋🏻 Youtube ", url='https://www.youtube.com')
         ],[
         InlineKeyboardButton("🎬 Join Our Movie Channel !", url='https://t.me/honey_moviezz')
         ],[
         InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://www.youtube.com')
         ],[
-        InlineKeyboardButton("📝Admin-TG", url='https://t.me/nashvara'),
+        InlineKeyboardButton("📝Admin-TG", url='https://t.me/ittus_bot'),
         InlineKeyboardButton("📝Admin-Insta", url='https://instagram.com')
         ]
         ]
